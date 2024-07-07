@@ -1,26 +1,32 @@
-# Hello World 👋
+### Hi there 👋, I'm Yuno!
 
+<br/>
+<a href="https://discord.com/users/221023167492128768" target="_blank" >
+    <img align ="left" alt="Yuno's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+  <a href="https://github.com/Yunoziko" target="_blank">
+    <img align ="left" alt="Yunoziko's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
 
+![]()
 
+<br/>
 
-I'm Yuno Engineering Student & Python Developer
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
+<a href="https://discord.com/users/1071843392268546068">
+<img src="https://discord.c99.nl/widget/theme-3/1071843392268546068.png" alt="Discord"/>
+</a>
 
+Hey, I'm Yuno, Engineering Student & Python Developer
 
+ **Information:**
 
+- 🔭 I’m currently working on  **Nemesis**
+- 🌱 I’m currently learning  **Typescript and Kotlin**
 
+**Projects**
 
-- Discord - [ItzYuno.ゞ 🖤#2358](https://discord.com/users/221023167492128768)
-- Instagram - [itz_yuno_o](https://instagram.com/itz_yuno_o)
+- [MAGE CLUB](https://discord.gg/mageclub)
+- [NEMESIS](https://top.gg/bot/6767676767)
 
-## Visitors
-![~ Yuno](https://profile-counter.glitch.me/yunoziko/count.svg)
---
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yunoziko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yunoziko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunoziko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001614.c50c3903b522419ba418a38b29951dd6.1524)](https://github.com/rayriffy/apple-music-github-profile)
