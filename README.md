@@ -3,7 +3,7 @@
 
 
 
-I'm Yuno Engineering Student & Python Developer
+Engineering Student & Python Developer
 
 
 
