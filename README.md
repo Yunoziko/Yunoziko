@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/not_yunoziko" target="blank"><img src="https://img.shields.io/twitter/follow/not_yunoziko?logo=twitter&style=for-the-badge" alt="not_yunoziko"  </p>
 
 
-- 🔭 I’m currently working on **FlowGen Arc**
+- 🔭 I’m currently working on **Azio**
 
 - 🌱 I’m currently learning **Full Stack**
 
